@@ -6,14 +6,15 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
+                Have been self-learning about the world of Blockchain and Web3 from  
+                a while now. Love the concept of Decentralized Finance.
+                Currently writing and developing Smart Contracts. Have a 
+                thorough understanding of Trading in Decentralized Exchanges.
+                Looking for opportunities to learn and grow together with
+                this disruptive technology. harum?
                 Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
                 adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+                Sapiente laboriosam nam excepturi exercitationem natus 
             </p>
         </section>
     );
