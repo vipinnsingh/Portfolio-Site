@@ -14,7 +14,7 @@ const About = () => {
                 this disruptive technology. harum?
                 Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
                 adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus 
+                Looking for opportunities to learn and grow together with
             </p>
         </section>
     );
