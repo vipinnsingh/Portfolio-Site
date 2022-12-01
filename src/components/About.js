@@ -10,11 +10,11 @@ const About = () => {
                 a while now. Love the concept of Decentralized Finance.
                 Currently writing and developing Smart Contracts. Have a 
                 thorough understanding of Trading in Decentralized Exchanges.
-                Looking for opportunities to learn and grow together with
-                this disruptive technology. harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus 
+                Aware with the tools like Truffle, Web3.js library and Ganache. Have
+                worked on several mini projects which includes deploying Smart Contracts
+                on local Blockchain and integrating them with frontend. Studied about NFTs
+                and their digital Marketplace. Looking for opportunities to learn and grow 
+                together with this disruptive technology. 
             </p>
         </section>
     );
